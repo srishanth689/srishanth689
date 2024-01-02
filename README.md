@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muppidi Srishanth</h1>
 <h3 align="center"> CSE Student from India</h3>
 
-- 🔭 I’m currently working on 
-
 - 🌱 I’m currently learning **web designing**
 
 - 📫 How to reach me **muppidisrishanth123@gmail.com**
