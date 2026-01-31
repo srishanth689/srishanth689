@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muppidi Srishanth</h1>
 # 💫 About Me:
- I’m currently learning MERN STACK DEVELOPMENT
+🚀 Full-Stack Developer | Java & MERN Enthusiast  <br><br>- 💻 Building scalable web applications  <br>- 🧠 Strong in DSA & OOP  <br>- 🔐 Experienced with JWT & secure backend systems  <br>- 🤖 Exploring AI-driven solutions  <br><br>📌 Projects:<br>✔ AI Resume Screening System  <br>✔ Smart Traffic Management (AI + CV)  <br>✔ Full-stack apps with clean UI & robust backend  <br><br>🌱 Always learning. Always building.<br>
 
 
 ## 🌐 Socials:
@@ -15,5 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srishanth689&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
